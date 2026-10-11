@@ -1,0 +1,4 @@
+file_pattern,source_id,source_name,genre,url,license,collection_date,priority,source_cap_mib,notes
+urwiki_api.jsonl,urwiki,Urdu Wikipedia,encyclopedia,https://ur.wikipedia.org/,"Wikipedia text generally CC BY-SA 4.0; preserve attribution and verify current applicable terms",2026-10-11,1,90,"Collected by own script through official MediaWiki API; see data/raw/urwiki_collection_manifest.json"
+ufal*.txt*,ufal_urmonocorp,UFAL UrMonoCorp,mixed,https://ufal.mff.cuni.cz/node/998,"CC BY-NC-SA 3.0 per LINDAT repository; non-commercial research use per UFAL page",2026-10-11,2,300,"LINDAT download of plain corpus; 213.46 MiB compressed, 223.8 MB extracted"
+*Urdu-News-Dataset-1M.csv*,urdu_news_1m,Urdu News Dataset 1M,news,https://data.mendeley.com/datasets/834vsxnb99/4,"CC BY 4.0 per Mendeley Data Version 4; non-commercial research with source credit",2026-10-11,3,300,"1M news stories CSV from Mendeley Data; filtered and deduplicated"

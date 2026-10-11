@@ -1,0 +1,1172 @@
+{
+  "vocab_size": 50000,
+  "merges_count": 49743,
+  "first_50_merges": [
+    {
+      "rank": 1,
+      "token_id": 257,
+      "left_id": 32,
+      "right_id": 216,
+      "left_repr": " ",
+      "right_repr": "<0xd8>",
+      "bytes_hex": "20d8",
+      "decoded": "<0x20d8>",
+      "is_valid_utf8": false,
+      "category": "Invalid standalone UTF-8"
+    },
+    {
+      "rank": 2,
+      "token_id": 258,
+      "left_id": 219,
+      "right_id": 140,
+      "left_repr": "<0xdb>",
+      "right_repr": "<0x8c>",
+      "bytes_hex": "db8c",
+      "decoded": "ی",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ی'"
+    },
+    {
+      "rank": 3,
+      "token_id": 259,
+      "left_id": 216,
+      "right_id": 167,
+      "left_repr": "<0xd8>",
+      "right_repr": "<0xa7>",
+      "bytes_hex": "d8a7",
+      "decoded": "ا",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ا'"
+    },
+    {
+      "rank": 4,
+      "token_id": 260,
+      "left_id": 32,
+      "right_id": 217,
+      "left_repr": " ",
+      "right_repr": "<0xd9>",
+      "bytes_hex": "20d9",
+      "decoded": "<0x20d9>",
+      "is_valid_utf8": false,
+      "category": "Invalid standalone UTF-8"
+    },
+    {
+      "rank": 5,
+      "token_id": 261,
+      "left_id": 218,
+      "right_id": 169,
+      "left_repr": "<0xda>",
+      "right_repr": "<0xa9>",
+      "bytes_hex": "daa9",
+      "decoded": "ک",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ک'"
+    },
+    {
+      "rank": 6,
+      "token_id": 262,
+      "left_id": 216,
+      "right_id": 177,
+      "left_repr": "<0xd8>",
+      "right_repr": "<0xb1>",
+      "bytes_hex": "d8b1",
+      "decoded": "ر",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ر'"
+    },
+    {
+      "rank": 7,
+      "token_id": 263,
+      "left_id": 217,
+      "right_id": 136,
+      "left_repr": "<0xd9>",
+      "right_repr": "<0x88>",
+      "bytes_hex": "d988",
+      "decoded": "و",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'و'"
+    },
+    {
+      "rank": 8,
+      "token_id": 264,
+      "left_id": 219,
+      "right_id": 129,
+      "left_repr": "<0xdb>",
+      "right_repr": "<0x81>",
+      "bytes_hex": "db81",
+      "decoded": "ہ",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ہ'"
+    },
+    {
+      "rank": 9,
+      "token_id": 265,
+      "left_id": 219,
+      "right_id": 146,
+      "left_repr": "<0xdb>",
+      "right_repr": "<0x92>",
+      "bytes_hex": "db92",
+      "decoded": "ے",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ے'"
+    },
+    {
+      "rank": 10,
+      "token_id": 266,
+      "left_id": 32,
+      "right_id": 261,
+      "left_repr": " ",
+      "right_repr": "ک",
+      "bytes_hex": "20daa9",
+      "decoded": " ک",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ک')"
+    },
+    {
+      "rank": 11,
+      "token_id": 267,
+      "left_id": 217,
+      "right_id": 134,
+      "left_repr": "<0xd9>",
+      "right_repr": "<0x86>",
+      "bytes_hex": "d986",
+      "decoded": "ن",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ن'"
+    },
+    {
+      "rank": 12,
+      "token_id": 268,
+      "left_id": 257,
+      "right_id": 167,
+      "left_repr": "<0x20d8>",
+      "right_repr": "<0xa7>",
+      "bytes_hex": "20d8a7",
+      "decoded": " ا",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ا')"
+    },
+    {
+      "rank": 13,
+      "token_id": 269,
+      "left_id": 217,
+      "right_id": 132,
+      "left_repr": "<0xd9>",
+      "right_repr": "<0x84>",
+      "bytes_hex": "d984",
+      "decoded": "ل",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ل'"
+    },
+    {
+      "rank": 14,
+      "token_id": 270,
+      "left_id": 218,
+      "right_id": 186,
+      "left_repr": "<0xda>",
+      "right_repr": "<0xba>",
+      "bytes_hex": "daba",
+      "decoded": "ں",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ں'"
+    },
+    {
+      "rank": 15,
+      "token_id": 271,
+      "left_id": 216,
+      "right_id": 170,
+      "left_repr": "<0xd8>",
+      "right_repr": "<0xaa>",
+      "bytes_hex": "d8aa",
+      "decoded": "ت",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ت'"
+    },
+    {
+      "rank": 16,
+      "token_id": 272,
+      "left_id": 260,
+      "right_id": 133,
+      "left_repr": "<0x20d9>",
+      "right_repr": "<0x85>",
+      "bytes_hex": "20d985",
+      "decoded": " م",
+      "is_valid_utf8": true,
+      "category": "Whole word (' م')"
+    },
+    {
+      "rank": 17,
+      "token_id": 273,
+      "left_id": 217,
+      "right_id": 133,
+      "left_repr": "<0xd9>",
+      "right_repr": "<0x85>",
+      "bytes_hex": "d985",
+      "decoded": "م",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'م'"
+    },
+    {
+      "rank": 18,
+      "token_id": 274,
+      "left_id": 216,
+      "right_id": 179,
+      "left_repr": "<0xd8>",
+      "right_repr": "<0xb3>",
+      "bytes_hex": "d8b3",
+      "decoded": "س",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'س'"
+    },
+    {
+      "rank": 19,
+      "token_id": 275,
+      "left_id": 32,
+      "right_id": 264,
+      "left_repr": " ",
+      "right_repr": "ہ",
+      "bytes_hex": "20db81",
+      "decoded": " ہ",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ہ')"
+    },
+    {
+      "rank": 20,
+      "token_id": 276,
+      "left_id": 218,
+      "right_id": 190,
+      "left_repr": "<0xda>",
+      "right_repr": "<0xbe>",
+      "bytes_hex": "dabe",
+      "decoded": "ھ",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ھ'"
+    },
+    {
+      "rank": 21,
+      "token_id": 277,
+      "left_id": 259,
+      "right_id": 216,
+      "left_repr": "ا",
+      "right_repr": "<0xd8>",
+      "bytes_hex": "d8a7d8",
+      "decoded": "<0xd8a7d8>",
+      "is_valid_utf8": false,
+      "category": "Invalid standalone UTF-8"
+    },
+    {
+      "rank": 22,
+      "token_id": 278,
+      "left_id": 258,
+      "right_id": 270,
+      "left_repr": "ی",
+      "right_repr": "ں",
+      "bytes_hex": "db8cdaba",
+      "decoded": "یں",
+      "is_valid_utf8": true,
+      "category": "Subword / Multi-char"
+    },
+    {
+      "rank": 23,
+      "token_id": 279,
+      "left_id": 257,
+      "right_id": 168,
+      "left_repr": "<0x20d8>",
+      "right_repr": "<0xa8>",
+      "bytes_hex": "20d8a8",
+      "decoded": " ب",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ب')"
+    },
+    {
+      "rank": 24,
+      "token_id": 280,
+      "left_id": 257,
+      "right_id": 179,
+      "left_repr": "<0x20d8>",
+      "right_repr": "<0xb3>",
+      "bytes_hex": "20d8b3",
+      "decoded": " س",
+      "is_valid_utf8": true,
+      "category": "Whole word (' س')"
+    },
+    {
+      "rank": 25,
+      "token_id": 281,
+      "left_id": 218,
+      "right_id": 175,
+      "left_repr": "<0xda>",
+      "right_repr": "<0xaf>",
+      "bytes_hex": "daaf",
+      "decoded": "گ",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'گ'"
+    },
+    {
+      "rank": 26,
+      "token_id": 282,
+      "left_id": 216,
+      "right_id": 175,
+      "left_repr": "<0xd8>",
+      "right_repr": "<0xaf>",
+      "bytes_hex": "d8af",
+      "decoded": "د",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'د'"
+    },
+    {
+      "rank": 27,
+      "token_id": 283,
+      "left_id": 260,
+      "right_id": 134,
+      "left_repr": "<0x20d9>",
+      "right_repr": "<0x86>",
+      "bytes_hex": "20d986",
+      "decoded": " ن",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ن')"
+    },
+    {
+      "rank": 28,
+      "token_id": 284,
+      "left_id": 260,
+      "right_id": 190,
+      "left_repr": "<0x20d9>",
+      "right_repr": "<0xbe>",
+      "bytes_hex": "20d9be",
+      "decoded": " پ",
+      "is_valid_utf8": true,
+      "category": "Whole word (' پ')"
+    },
+    {
+      "rank": 29,
+      "token_id": 285,
+      "left_id": 257,
+      "right_id": 170,
+      "left_repr": "<0x20d8>",
+      "right_repr": "<0xaa>",
+      "bytes_hex": "20d8aa",
+      "decoded": " ت",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ت')"
+    },
+    {
+      "rank": 30,
+      "token_id": 286,
+      "left_id": 266,
+      "right_id": 258,
+      "left_repr": " ک",
+      "right_repr": "ی",
+      "bytes_hex": "20daa9db8c",
+      "decoded": " کی",
+      "is_valid_utf8": true,
+      "category": "Whole word (' کی')"
+    },
+    {
+      "rank": 31,
+      "token_id": 287,
+      "left_id": 216,
+      "right_id": 168,
+      "left_repr": "<0xd8>",
+      "right_repr": "<0xa8>",
+      "bytes_hex": "d8a8",
+      "decoded": "ب",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ب'"
+    },
+    {
+      "rank": 32,
+      "token_id": 288,
+      "left_id": 263,
+      "right_id": 262,
+      "left_repr": "و",
+      "right_repr": "ر",
+      "bytes_hex": "d988d8b1",
+      "decoded": "ور",
+      "is_valid_utf8": true,
+      "category": "Subword / Multi-char"
+    },
+    {
+      "rank": 33,
+      "token_id": 289,
+      "left_id": 259,
+      "right_id": 267,
+      "left_repr": "ا",
+      "right_repr": "ن",
+      "bytes_hex": "d8a7d986",
+      "decoded": "ان",
+      "is_valid_utf8": true,
+      "category": "Whole word ('ان')"
+    },
+    {
+      "rank": 34,
+      "token_id": 290,
+      "left_id": 257,
+      "right_id": 172,
+      "left_repr": "<0x20d8>",
+      "right_repr": "<0xac>",
+      "bytes_hex": "20d8ac",
+      "decoded": " ج",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ج')"
+    },
+    {
+      "rank": 35,
+      "token_id": 291,
+      "left_id": 266,
+      "right_id": 265,
+      "left_repr": " ک",
+      "right_repr": "ے",
+      "bytes_hex": "20daa9db92",
+      "decoded": " کے",
+      "is_valid_utf8": true,
+      "category": "Whole word (' کے')"
+    },
+    {
+      "rank": 36,
+      "token_id": 292,
+      "left_id": 217,
+      "right_id": 185,
+      "left_repr": "<0xd9>",
+      "right_repr": "<0xb9>",
+      "bytes_hex": "d9b9",
+      "decoded": "ٹ",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ٹ'"
+    },
+    {
+      "rank": 37,
+      "token_id": 293,
+      "left_id": 272,
+      "right_id": 278,
+      "left_repr": " م",
+      "right_repr": "یں",
+      "bytes_hex": "20d985db8cdaba",
+      "decoded": " میں",
+      "is_valid_utf8": true,
+      "category": "Whole word (' میں')"
+    },
+    {
+      "rank": 38,
+      "token_id": 294,
+      "left_id": 257,
+      "right_id": 175,
+      "left_repr": "<0x20d8>",
+      "right_repr": "<0xaf>",
+      "bytes_hex": "20d8af",
+      "decoded": " د",
+      "is_valid_utf8": true,
+      "category": "Whole word (' د')"
+    },
+    {
+      "rank": 39,
+      "token_id": 295,
+      "left_id": 259,
+      "right_id": 262,
+      "left_repr": "ا",
+      "right_repr": "ر",
+      "bytes_hex": "d8a7d8b1",
+      "decoded": "ار",
+      "is_valid_utf8": true,
+      "category": "Whole word ('ار')"
+    },
+    {
+      "rank": 40,
+      "token_id": 296,
+      "left_id": 260,
+      "right_id": 136,
+      "left_repr": "<0x20d9>",
+      "right_repr": "<0x88>",
+      "bytes_hex": "20d988",
+      "decoded": " و",
+      "is_valid_utf8": true,
+      "category": "Whole word (' و')"
+    },
+    {
+      "rank": 41,
+      "token_id": 297,
+      "left_id": 218,
+      "right_id": 134,
+      "left_repr": "<0xda>",
+      "right_repr": "<0x86>",
+      "bytes_hex": "da86",
+      "decoded": "چ",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'چ'"
+    },
+    {
+      "rank": 42,
+      "token_id": 298,
+      "left_id": 219,
+      "right_id": 148,
+      "left_repr": "<0xdb>",
+      "right_repr": "<0x94>",
+      "bytes_hex": "db94",
+      "decoded": "۔",
+      "is_valid_utf8": true,
+      "category": "Whole word ('۔')"
+    },
+    {
+      "rank": 43,
+      "token_id": 299,
+      "left_id": 275,
+      "right_id": 265,
+      "left_repr": " ہ",
+      "right_repr": "ے",
+      "bytes_hex": "20db81db92",
+      "decoded": " ہے",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ہے')"
+    },
+    {
+      "rank": 44,
+      "token_id": 300,
+      "left_id": 257,
+      "right_id": 177,
+      "left_repr": "<0x20d8>",
+      "right_repr": "<0xb1>",
+      "bytes_hex": "20d8b1",
+      "decoded": " ر",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ر')"
+    },
+    {
+      "rank": 45,
+      "token_id": 301,
+      "left_id": 217,
+      "right_id": 129,
+      "left_repr": "<0xd9>",
+      "right_repr": "<0x81>",
+      "bytes_hex": "d981",
+      "decoded": "ف",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ف'"
+    },
+    {
+      "rank": 46,
+      "token_id": 302,
+      "left_id": 260,
+      "right_id": 132,
+      "left_repr": "<0x20d9>",
+      "right_repr": "<0x84>",
+      "bytes_hex": "20d984",
+      "decoded": " ل",
+      "is_valid_utf8": true,
+      "category": "Whole word (' ل')"
+    },
+    {
+      "rank": 47,
+      "token_id": 303,
+      "left_id": 266,
+      "right_id": 262,
+      "left_repr": " ک",
+      "right_repr": "ر",
+      "bytes_hex": "20daa9d8b1",
+      "decoded": " کر",
+      "is_valid_utf8": true,
+      "category": "Whole word (' کر')"
+    },
+    {
+      "rank": 48,
+      "token_id": 304,
+      "left_id": 217,
+      "right_id": 190,
+      "left_repr": "<0xd9>",
+      "right_repr": "<0xbe>",
+      "bytes_hex": "d9be",
+      "decoded": "پ",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'پ'"
+    },
+    {
+      "rank": 49,
+      "token_id": 305,
+      "left_id": 32,
+      "right_id": 281,
+      "left_repr": " ",
+      "right_repr": "گ",
+      "bytes_hex": "20daaf",
+      "decoded": " گ",
+      "is_valid_utf8": true,
+      "category": "Whole word (' گ')"
+    },
+    {
+      "rank": 50,
+      "token_id": 306,
+      "left_id": 216,
+      "right_id": 178,
+      "left_repr": "<0xd8>",
+      "right_repr": "<0xb2>",
+      "bytes_hex": "d8b2",
+      "decoded": "ز",
+      "is_valid_utf8": true,
+      "category": "Rebuilds 2-byte letter 'ز'"
+    }
+  ],
+  "every_5k_merges": [
+    {
+      "rank": 5000,
+      "token_id": 5256,
+      "left_id": 2193,
+      "right_id": 110,
+      "decoded": " In",
+      "bytes_hex": "20496e",
+      "byte_len": 3,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 10000,
+      "token_id": 10256,
+      "left_id": 382,
+      "right_id": 9322,
+      "decoded": " ڈزنی",
+      "bytes_hex": "20da88d8b2d986db8c",
+      "byte_len": 9,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 15000,
+      "token_id": 15256,
+      "left_id": 606,
+      "right_id": 313,
+      "decoded": " ہوگئ",
+      "bytes_hex": "20db81d988daafd8a6",
+      "byte_len": 9,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 20000,
+      "token_id": 20256,
+      "left_id": 290,
+      "right_id": 1415,
+      "decoded": " جریر",
+      "bytes_hex": "20d8acd8b1db8cd8b1",
+      "byte_len": 9,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 25000,
+      "token_id": 25256,
+      "left_id": 6422,
+      "right_id": 265,
+      "decoded": " برآمدے",
+      "bytes_hex": "20d8a8d8b1d8a2d985d8afdb92",
+      "byte_len": 13,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 30000,
+      "token_id": 30256,
+      "left_id": 284,
+      "right_id": 447,
+      "decoded": " پوم",
+      "bytes_hex": "20d9bed988d985",
+      "byte_len": 7,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 35000,
+      "token_id": 35256,
+      "left_id": 1615,
+      "right_id": 585,
+      "decoded": " فلنٹ",
+      "bytes_hex": "20d981d984d986d9b9",
+      "byte_len": 9,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 40000,
+      "token_id": 40256,
+      "left_id": 2193,
+      "right_id": 76,
+      "decoded": " IL",
+      "bytes_hex": "20494c",
+      "byte_len": 3,
+      "is_valid_utf8": true
+    },
+    {
+      "rank": 45000,
+      "token_id": 45256,
+      "left_id": 1295,
+      "right_id": 34223,
+      "decoded": " آرکٹک",
+      "bytes_hex": "20d8a2d8b1daa9d9b9daa9",
+      "byte_len": 11,
+      "is_valid_utf8": true
+    }
+  ],
+  "two_byte_rebuilt_summary": [
+    [
+      2,
+      258,
+      "ی"
+    ],
+    [
+      3,
+      259,
+      "ا"
+    ],
+    [
+      5,
+      261,
+      "ک"
+    ],
+    [
+      6,
+      262,
+      "ر"
+    ],
+    [
+      7,
+      263,
+      "و"
+    ],
+    [
+      8,
+      264,
+      "ہ"
+    ],
+    [
+      9,
+      265,
+      "ے"
+    ],
+    [
+      11,
+      267,
+      "ن"
+    ],
+    [
+      13,
+      269,
+      "ل"
+    ],
+    [
+      14,
+      270,
+      "ں"
+    ],
+    [
+      15,
+      271,
+      "ت"
+    ],
+    [
+      17,
+      273,
+      "م"
+    ],
+    [
+      18,
+      274,
+      "س"
+    ],
+    [
+      20,
+      276,
+      "ھ"
+    ],
+    [
+      25,
+      281,
+      "گ"
+    ],
+    [
+      26,
+      282,
+      "د"
+    ],
+    [
+      31,
+      287,
+      "ب"
+    ],
+    [
+      36,
+      292,
+      "ٹ"
+    ],
+    [
+      41,
+      297,
+      "چ"
+    ],
+    [
+      45,
+      301,
+      "ف"
+    ],
+    [
+      48,
+      304,
+      "پ"
+    ],
+    [
+      50,
+      306,
+      "ز"
+    ]
+  ],
+  "invalid_utf8_summary": [
+    [
+      1,
+      257,
+      "20d8"
+    ],
+    [
+      4,
+      260,
+      "20d9"
+    ],
+    [
+      21,
+      277,
+      "d8a7d8"
+    ]
+  ],
+  "first_whole_word": {
+    "rank": 2,
+    "token_id": 258,
+    "decoded": "ی",
+    "raw_hex": "db8c",
+    "byte_len": 2
+  },
+  "longest_tokens": [
+    {
+      "token_id": 38713,
+      "byte_len": 35,
+      "decoded": " لاہور92نیوزپاکستان",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 45449,
+      "byte_len": 31,
+      "decoded": " ڈولیشوراسپورٹنگ",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 19870,
+      "byte_len": 29,
+      "decoded": " انسائیکلوپیڈیا",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 22551,
+      "byte_len": 29,
+      "decoded": " رائزرزحیدرآباد",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 43030,
+      "byte_len": 29,
+      "decoded": " ہاہاہاہاہاہاہا",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 30149,
+      "byte_len": 27,
+      "decoded": " خیبرپختوانخوا",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 30451,
+      "byte_len": 27,
+      "decoded": " خیبرپختونخواہ",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 11283,
+      "byte_len": 25,
+      "decoded": " خیبرپختونخوا",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 24758,
+      "byte_len": 25,
+      "decoded": " چیمپئنزٹرافی",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 26654,
+      "byte_len": 25,
+      "decoded": " بیللیریواوول",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 28795,
+      "byte_len": 25,
+      "decoded": " لاہورپاکستان",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 29206,
+      "byte_len": 25,
+      "decoded": " امیرالمومنین",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 29262,
+      "byte_len": 25,
+      "decoded": " ہاہاہاہاہاہا",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 31265,
+      "byte_len": 25,
+      "decoded": " انفرااسٹرکچر",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 31697,
+      "byte_len": 25,
+      "decoded": " کراچیپاکستان",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 32103,
+      "byte_len": 25,
+      "decoded": " بنائےپاکستان",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 36121,
+      "byte_len": 25,
+      "decoded": " کمارسنگاکارا",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 36158,
+      "byte_len": 25,
+      "decoded": " مہاراشٹرکرکٹ",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 36394,
+      "byte_len": 25,
+      "decoded": " موٹرسائیکلوں",
+      "is_valid_utf8": true
+    },
+    {
+      "token_id": 37602,
+      "byte_len": 25,
+      "decoded": " کردیاپاکستان",
+      "is_valid_utf8": true
+    }
+  ],
+  "benchmarks": [
+    {
+      "input_name": "test.txt (Full Split)",
+      "words": 713196,
+      "urdu_bpe_tokens": 772919,
+      "urdu_bpe_rate": 1.083739953673324,
+      "gpt2_tokens": 3989615,
+      "gpt2_rate": 5.59399519907571,
+      "o200k_tokens": 1084775,
+      "o200k_rate": 1.5210054459082776
+    },
+    {
+      "input_name": "news",
+      "words": 14,
+      "urdu_bpe_tokens": 15,
+      "urdu_bpe_rate": 1.0714285714285714,
+      "gpt2_tokens": 81,
+      "gpt2_rate": 5.785714285714286,
+      "o200k_tokens": 21,
+      "o200k_rate": 1.5
+    },
+    {
+      "input_name": "poetry",
+      "words": 10,
+      "urdu_bpe_tokens": 12,
+      "urdu_bpe_rate": 1.2,
+      "gpt2_tokens": 56,
+      "gpt2_rate": 5.6,
+      "o200k_tokens": 16,
+      "o200k_rate": 1.6
+    },
+    {
+      "input_name": "Urdu with English",
+      "words": 10,
+      "urdu_bpe_tokens": 16,
+      "urdu_bpe_rate": 1.6,
+      "gpt2_tokens": 43,
+      "gpt2_rate": 4.3,
+      "o200k_tokens": 13,
+      "o200k_rate": 1.3
+    },
+    {
+      "input_name": "Roman Urdu",
+      "words": 12,
+      "urdu_bpe_tokens": 31,
+      "urdu_bpe_rate": 2.5833333333333335,
+      "gpt2_tokens": 25,
+      "gpt2_rate": 2.0833333333333335,
+      "o200k_tokens": 20,
+      "o200k_rate": 1.6666666666666667
+    },
+    {
+      "input_name": "numbers and dates",
+      "words": 13,
+      "urdu_bpe_tokens": 26,
+      "urdu_bpe_rate": 2.0,
+      "gpt2_tokens": 78,
+      "gpt2_rate": 6.0,
+      "o200k_tokens": 27,
+      "o200k_rate": 2.076923076923077
+    },
+    {
+      "input_name": "diacritics",
+      "words": 5,
+      "urdu_bpe_tokens": 14,
+      "urdu_bpe_rate": 2.8,
+      "gpt2_tokens": 42,
+      "gpt2_rate": 8.4,
+      "o200k_tokens": 22,
+      "o200k_rate": 4.4
+    },
+    {
+      "input_name": "personal names",
+      "words": 9,
+      "urdu_bpe_tokens": 11,
+      "urdu_bpe_rate": 1.2222222222222223,
+      "gpt2_tokens": 54,
+      "gpt2_rate": 6.0,
+      "o200k_tokens": 17,
+      "o200k_rate": 1.8888888888888888
+    }
+  ],
+  "difficult_inputs": [
+    {
+      "key": "archaic_ligatures",
+      "text": "حضرت محمد ﷺ خاتم النبیین ہیں اور قرآن پاک ﷽ سے شروع ہوتا ہے۔",
+      "words": 14,
+      "urdu_bpe_tokens": 17,
+      "urdu_bpe_rate": 1.2142857142857142,
+      "gpt2_tokens": 74,
+      "gpt2_rate": 5.285714285714286,
+      "o200k_tokens": 21,
+      "o200k_rate": 1.5,
+      "bpe_token_pieces": [
+        "حضرت",
+        " محمد",
+        " ﷺ",
+        " خاتم",
+        " النبیین",
+        " ہیں",
+        " اور",
+        " قرآن",
+        " پاک",
+        " ",
+        "<0xefb7>",
+        "<0xbd>",
+        " سے",
+        " شروع",
+        " ہوتا",
+        " ہے",
+        "۔"
+      ],
+      "explanation": "Contains unnormalized Arabic presentation-form honorific ligatures (U+FDFA ﷺ and U+FDFD ﷽). Each ligature takes 3 UTF-8 bytes but never merged in journalistic training data, fragmenting into 3 isolated byte tokens."
+    },
+    {
+      "key": "dense_diacritics",
+      "text": "عَرَبِی وَ اُردُو مَجلِسِ شُورٰی میں مُتَشَدِّد عُلمَاء کا مُفَصَّل مُباحَثَہ۔",
+      "words": 11,
+      "urdu_bpe_tokens": 35,
+      "urdu_bpe_rate": 3.1818181818181817,
+      "gpt2_tokens": 94,
+      "gpt2_rate": 8.545454545454545,
+      "o200k_tokens": 48,
+      "o200k_rate": 4.363636363636363,
+      "bpe_token_pieces": [
+        "ع",
+        "َر",
+        "َبِی",
+        " وَ",
+        " اُرد",
+        "ُو",
+        " مَ",
+        "ج",
+        "لِ",
+        "س",
+        "ِ",
+        " شُ",
+        "ور",
+        "ٰی",
+        " میں",
+        " مُت",
+        "َش",
+        "َد",
+        "ِّ",
+        "د",
+        " عُ",
+        "لم",
+        "َ",
+        "اء",
+        " کا",
+        " مُ",
+        "فَ",
+        "ص",
+        "َّل",
+        " مُ",
+        "باح",
+        "َ",
+        "ث",
+        "َہ",
+        "۔"
+      ],
+      "explanation": "Fully vocalized Urdu with stacked diacritics (harakat, tashdeed, sukun). Although \\p{M} preserves grouping, training data is 99% unvocalized, so vocalized roots fragment into multi-token byte pieces."
+    },
+    {
+      "key": "code_switched_url",
+      "text": "ماڈل کی فائن ٹیوننگ کے لیے https://huggingface.co/models?lang=ur-PK کا API-endpoint استعمال کریں۔",
+      "words": 11,
+      "urdu_bpe_tokens": 38,
+      "urdu_bpe_rate": 3.4545454545454546,
+      "gpt2_tokens": 76,
+      "gpt2_rate": 6.909090909090909,
+      "o200k_tokens": 31,
+      "o200k_rate": 2.8181818181818183,
+      "bpe_token_pieces": [
+        "ماڈل",
+        " کی",
+        " فائن",
+        " ٹیون",
+        "نگ",
+        " کے",
+        " لیے",
+        " https",
+        "://",
+        "h",
+        "ugg",
+        "ing",
+        "f",
+        "ace",
+        ".",
+        "co",
+        "/",
+        "m",
+        "od",
+        "els",
+        "?",
+        "l",
+        "ang",
+        "=",
+        "ur",
+        "-",
+        "P",
+        "K",
+        " کا",
+        " AP",
+        "I",
+        "-",
+        "end",
+        "po",
+        "int",
+        " استعمال",
+        " کریں",
+        "۔"
+      ],
+      "explanation": "Complex code-switching with URLs, hyphens, and technical English acronyms. Splits across punctuation pre-tokenization and decomposes rare English tokens into byte fragments."
+    }
+  ]
+}

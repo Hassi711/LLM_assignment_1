@@ -1,0 +1,16 @@
+{
+  "source_name": "Urdu Wikipedia",
+  "source_url": "https://ur.wikipedia.org/",
+  "api_endpoint": "https://ur.wikipedia.org/w/api.php",
+  "license_note": "Wikipedia article text is generally CC BY-SA and GFDL; preserve attribution and verify the current applicable terms before submission.",
+  "collection_start_utc": "2026-10-11T15:33:45.130528+00:00",
+  "collection_end_utc": "2026-10-11T15:38:01.770406+00:00",
+  "pages_saved": 1218,
+  "extracted_text_bytes_utf8": 57788933,
+  "jsonl_output_bytes": 59673351,
+  "api_calls": 233,
+  "delay_seconds": 0.0,
+  "last_saved_title": "میلان",
+  "output_path": "data\\raw\\urwiki_api.jsonl",
+  "user_agent_note": "CS417-UrduBPE-coursework/1.0 (educational research; contact: student@nust.edu.pk)"
+}
